@@ -23,7 +23,7 @@
 body{
     display: flex;
     flex-direction: column;
-    min-height.: 100vh;
+    min-height: 100vh;
     background-color:rgba(174, 175, 176, 0.985);
 }
 
