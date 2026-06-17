@@ -24,6 +24,7 @@ body{
     display: flex;
     flex-direction: column;
     min-width: 100vh;
+    background-color:rgba(174, 175, 176, 0.985);
 }
 
 mais{
@@ -32,4 +33,13 @@ mais{
 
 .cabecalho-link {
     color:white;
+    text-decoration: none;
+}
+
+.h1 {
+    color: #fff;
+}
+
+.footer {
+    background-color: aliceblue;
 }
