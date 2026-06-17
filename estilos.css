@@ -42,7 +42,13 @@ h1 {
 }
 
 .footer {
-    background-color:rgb(71, 71, 131;
+    background-color:rgb(71, 71, 131;)
      padding: 15px 25px;
      color: #fff;
 }
+
+.cartao-interno {
+    position: relative;
+}
+
+.cartao-frente,
