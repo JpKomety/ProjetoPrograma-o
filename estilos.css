@@ -52,7 +52,9 @@ h1 {
     transition: transform 0.8s;
 }
 
-.cartao:hover
+.cartao:hover, .cartao-verso {
+    transform: rotateY(180deg);
+}
 
 .cartao-frente, .cartao-verso {
     position:absolute;
